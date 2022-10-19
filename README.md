@@ -61,5 +61,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayushi-Kosta&show_icons=true&locale=en&layout=compact" alt="Shruti-Gupta" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutigupta03&show_icons=true&locale=en&layout=compact" alt="Shruti-Gupta" /></p> -->
+[![@shrutigupta03's Holopin board](https://holopin.me/shrutigupta03)](https://holopin.io/@shrutigupta03)
 
