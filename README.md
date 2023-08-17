@@ -21,12 +21,12 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <!-- <a href="https://www.instagram.com/shruti_gupta87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shruti_gupta87" height="30" width="40" /></a> -->
-<a href="https://www.kaggle.com/shrutigupta70" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="shrutig1287" height="50" width="150" /></a>
-<a href="https://www.codechef.com/users/shruti_1287" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="shrutig1287" height="50" width="150" /></a>
-<a href="https://www.hackerrank.com/shrutig1287" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="shrutig1287" height="50" width="170" /></a>
-<a href="https://leetcode.com/shrutig1287/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="shruti_27" height="50" width="150" /></a>
-<a href="https://www.codingninjas.com/studio/profile/9da5d867-b3c0-4be8-a54f-c42c5c31771b" target="blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="shrutig1287" height="50" width="160" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shrutig1287/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shruti" height="85" width="70" /></a>
+<a href="https://www.kaggle.com/shrutigupta70" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="shrutig1287" height="50" width="140" /></a>
+<a href="https://www.codechef.com/users/shruti_1287" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="shrutig1287" height="50" width="140" /></a>
+<a href="https://www.hackerrank.com/shrutig1287" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="shrutig1287" height="50" width="155" /></a>
+<a href="https://leetcode.com/shrutig1287/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="shruti_27" height="50" width="140" /></a>
+<a href="https://www.codingninjas.com/studio/profile/9da5d867-b3c0-4be8-a54f-c42c5c31771b" target="blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="shrutig1287" height="50" width="145" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shrutig1287/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shruti" height="85" width="65" /></a>
 </p>
 <br>
 <br>
