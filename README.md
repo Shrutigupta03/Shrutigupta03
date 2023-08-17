@@ -70,7 +70,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/Shrutigupta03" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/shruti-gupta-954960212/" target="_blank">
+<a href="https://www.linkedin.com/in/shruti-gupta-033a98285/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:shrutig1287@gmail.com">
