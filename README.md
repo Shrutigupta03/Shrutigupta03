@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.hackerrank.com/shrutig1287" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="shrutig1287" height="50" width="155" /></a>
 <a href="https://leetcode.com/shrutig1287/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="shruti_27" height="50" width="140" /></a>
 <a href="https://www.codingninjas.com/studio/profile/9da5d867-b3c0-4be8-a54f-c42c5c31771b" target="blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="shrutig1287" height="50" width="145" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shrutig1287/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shruti" height="85" width="65" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/shrutig1287/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shruti" height="85" width="65" /></a> -->
 </p>
 <br>
 <br>
