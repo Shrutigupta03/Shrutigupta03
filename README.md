@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ---> 
 
 <h1 align="center">Hi! I'm Shruti Gupta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
-<h3 align="center">A passionate programmer</h3>
+<h3 align="center">Artificial Intelligence & Data Science enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shrutigupta03&label=Profile%20views&color=0e75b6&style=flat" alt="shruti gupta" /> </p>
 
