@@ -8,8 +8,8 @@ Shruti-Gupta/Shruti-Gupta is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 ---> 
 
-<h1 align="center">Hi! I'm Shruti Gupta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
-<h3 align="center">Artificial Intelligence & Data Science enthusiast</h3>
+<h1 align="center" color="white">Hi! I'm Shruti Gupta <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
+<h3 align="center" color="white">Artificial Intelligence & Data Science enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shrutigupta03&label=Profile%20views&color=0e75b6&style=flat" alt="shruti gupta" /> </p>
 
@@ -37,14 +37,12 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <h2 align="left">Languages and Tools:</h2>
-<div align="center">
-<img src="https://camo.githubusercontent.com/dd8b0601cdfefe534a6a26f4c29c7f8a5fcfc315002655f519c73121f7bad8bc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" alt="py" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
+<p align="center">
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,angular" height="60"/>
+  </a>
+</p>
 
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/>  -->
-</div>
 <br>
 <br>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shruti009934&show_icons=true&locale=en&layout=compact" alt="shruti-gupta" /></p>
